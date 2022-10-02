@@ -1,0 +1,8 @@
+### react ###
+.DS_*
+*.log
+logs
+dist
+.parcel-cache
+
+node_modules
